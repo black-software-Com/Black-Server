@@ -1,0 +1,6 @@
+PyQt5
+pyqt5-tools
+tk-tools
+speedtest-cli
+requests
+colorama

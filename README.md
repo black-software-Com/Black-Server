@@ -2,7 +2,7 @@
 
 <center>
 <a href="https://github.com/black-software-com/black-server" title="Black Server Logo">
-<img src="https://github.com/black-software-Com/Black-Server/blob/master/Core/Black-Server/Scr/server-logo.png" width=150 height=150 alt="Black Server Logo">
+<img src="./Scr/server-logo.png" width=150 height=150 alt="Black Server Logo">
 </a>
 </center>
 <hr>
@@ -10,7 +10,7 @@
 ### What Is Black-Server App 🤔?
 ``` txt
 Black Server is software for setting up web servers,
-databases and a variety of services Γ¼¢
+databases and a variety of services ⬛
 ```
 <br>
 

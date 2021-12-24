@@ -2,7 +2,7 @@
 
 <center>
 <a href="https://github.com/black-software-com/black-server" title="Black Server Logo">
-<img src="./Scr/server-logo.png" width=150 height=150 alt="Black Server Logo">
+<img src="./Scr/black-server-logo-.png" width=150 height=150 alt="Black Server Logo">
 </a>
 </center>
 <hr>

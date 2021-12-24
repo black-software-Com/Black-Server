@@ -680,6 +680,11 @@
 # <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 #
+
+
+# If you want to copy the code, take a look at yourself : - /
+
+
 from os import getcwd,system as command
 from subprocess import getoutput,SubprocessError
 from platform import system

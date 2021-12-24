@@ -20,20 +20,40 @@ git clone https://github.com/black-software-com/black-server
 
 cd black-server
 
-./black.exe
+bash install.sh
+
+./black
 ```
 <br>
 
 **Installing On Windows ⬛**
+#### Method 1
+
 ``` txt
-First Installing Zip File
 
-And Extract File
+scoop install git or choco install git
+scoop install python or choco install python
 
-run black.exe
+git clone https://github.com/black-software-Com/Black-Server
 
-and :)
+cd black-server
+
+python black
 ```
+
+#### Method 2
+``` txt
+First Install python 
+And Installing Black-Server Zip File
+And Extract Black-Server File 
+Open Cmd And Go To The Black-Server (Dir)
+And Usage: python black
+```
+
+### [Download Python](https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe)
+
+### [Download Black-Server](https://github.com/black-software-Com/Black-Server/archive/refs/heads/master.zip)
+
 <br>
 
 #### [License](https://github.com/black-software-Com/Black-Server/blob/master/LICENSE) 📝

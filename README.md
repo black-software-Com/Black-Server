@@ -1,4 +1,4 @@
-# [Black-Server](https://github.com/black-software-com/black-server) ⬛
+# [Black-Server](https://github.com/black-software-com/black-server) ⬛ (Open Source)
 
 <center>
 <a href="https://github.com/black-software-com/black-server" title="Black Server Logo">

@@ -4,3 +4,5 @@ tk-tools
 speedtest-cli
 requests
 colorama
+tkhtmlview
+ttkbootstrap

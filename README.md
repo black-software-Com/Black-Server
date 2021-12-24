@@ -1,8 +1,8 @@
 # [Black-Server](https://github.com/black-software-com/black-server) ⬛ (Open Source)
 
 <center>
-<a href="https://github.com/black-software-com/black-server" title="Black Server Logo">
-<img src="./Scr/black-server-logo-.png" alt="Black Server Logo">
+<a href="https://github.com/black-software-com/black-server" title="Black-Server Logo" >
+<img src="./Scr/black-server-logo-.png" alt="Black-Server Logo" title="Black-Server Logo" >
 </a>
 </center>
 <hr>

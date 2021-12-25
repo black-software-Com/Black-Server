@@ -30,7 +30,7 @@ bash install.sh
 #### Method 1
 
 ``` txt
-
+# installing git and python:
 scoop install git or choco install git
 scoop install python or choco install python
 
@@ -44,10 +44,15 @@ python black
 #### Method 2
 ``` txt
 First Install python 
+
 And Installing Black-Server Zip File
+
 And Extract Black-Server File 
+
 Open Cmd And Go To The Black-Server (Dir)
+
 And Usage: python black
+
 ```
 
 ### [Download Python](https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe)
